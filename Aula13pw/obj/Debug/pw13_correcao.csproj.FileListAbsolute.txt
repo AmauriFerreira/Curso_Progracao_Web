@@ -1,0 +1,8 @@
+C:\Users\professor\Documents\Visual Studio 2013\Projects\PWEB_NOITE\pw13_correcao\bin\pw13_correcao.dll.config
+C:\Users\professor\Documents\Visual Studio 2013\Projects\PWEB_NOITE\pw13_correcao\bin\pw13_correcao.dll
+C:\Users\professor\Documents\Visual Studio 2013\Projects\PWEB_NOITE\pw13_correcao\bin\pw13_correcao.pdb
+C:\Users\professor\Documents\Visual Studio 2013\Projects\PWEB_NOITE\pw13_correcao\bin\MySql.Data.dll
+C:\Users\professor\Documents\Visual Studio 2013\Projects\PWEB_NOITE\pw13_correcao\bin\MySql.Data.xml
+C:\Users\professor\Documents\Visual Studio 2013\Projects\PWEB_NOITE\pw13_correcao\obj\Debug\pw13_correcao.csprojResolveAssemblyReference.cache
+C:\Users\professor\Documents\Visual Studio 2013\Projects\PWEB_NOITE\pw13_correcao\obj\Debug\pw13_correcao.dll
+C:\Users\professor\Documents\Visual Studio 2013\Projects\PWEB_NOITE\pw13_correcao\obj\Debug\pw13_correcao.pdb
