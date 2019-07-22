@@ -70,4 +70,8 @@ Senha – campo obrigatório
 Confirmação de senha – verificar se esta igual ao campo senha
 cep  – código numérico de 8 dígitos
 Valor de compra / Valor de Venda – Valor de Venda não pode ser menor que valor de compra
+
+16-Aula
+
+Crie um formulario,  utilizando metodos AJAX para enviar um email .
  
