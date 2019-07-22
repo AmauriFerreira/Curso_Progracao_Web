@@ -52,5 +52,9 @@ Nesta pagina crie dois objetos do tipo textbox para receber os números, e crie 
 12-Aula
 
 Crie uma pagina HTML com um formulário com os seguintes campos: nome, e-mail, telefone e senha envie o post deste formulário para a página: converter.aspx, que tem a função de ler estes parâmetros e de converter para variáveis de sessão do mesmo nome.
-Em seguida redirecione a navegação para a página: sessao.aspx que vai ler as variaveis de sessão e atribuir aos seguintes objetos na tela: txtNome, txtEmail, txtTelefone e txtSenha
+Em seguida redirecione a navegação para a página: sessao.aspx que vai ler as variaveis de sessão e atribuir aos seguintes objetos na tela: txtNome, txtEmail, txtTelefone e txtSenha.
+
+13-Aula
+
+Utilizando a base de dados do exemplo anterior, crie o CRUD em ASP.NET da seguinte  tabela:  livro{codigo, titulo, autor, qtd, valor, paginas, resumo}.
  
