@@ -59,4 +59,15 @@ Em seguida redirecione a navegação para a página: sessao.aspx que vai ler as 
 Utilizando a base de dados do exemplo anterior, crie o CRUD em ASP.NET da seguinte  tabela:  livro{codigo, titulo, autor, qtd, valor, paginas, resumo}.
 
 14-OO e Webservices
+
+15-Aula
+
+Obs: Enviar no email, link do google drive ou dropbox ou git com os arquivos do projeto
+crie uma página em ASP.NET que utilize os objetos de validação, seguindo as seguintes regras:
+Data de Inscrição – Período de 01/07/2019 ate 31/12/2019
+Email – validação de e-mail valido
+Senha – campo obrigatório
+Confirmação de senha – verificar se esta igual ao campo senha
+cep  – código numérico de 8 dígitos
+Valor de compra / Valor de Venda – Valor de Venda não pode ser menor que valor de compra
  
