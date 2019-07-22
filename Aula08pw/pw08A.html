@@ -1,0 +1,51 @@
+<html>
+	<head>
+	<title>PW08 - Parte 1 - Correção</title>
+	</head>	
+	<body>
+		<form>
+		n1:<input type="text" id="n1" /><br/>	
+		n2:<input type="text" id="n2" /><br/>	
+		<input type="button" value="+" onclick="somar();" />
+		<input type="button" value="-" onclick="subtrair();" />
+		<input type="button" value="*" onclick="multiplicar();" />
+		<input type="button" value="/" onclick="dividir();" />
+		<br/>
+		<input type="text" id="res" />
+		</form>
+	</body>
+</html>
+<script lang="javascript">
+function somar(){	
+	var a = parseFloat(n1.value);
+	var b = parseFloat(n2.value);
+	var c = a+b;
+	res.value = c;
+}
+function subtrair(){	
+	var a = parseFloat(n1.value);
+	var b = parseFloat(n2.value);
+	var c = a-b;
+	res.value = c;
+}
+function multiplicar(){	
+	var a = parseFloat(n1.value);
+	var b = parseFloat(n2.value);
+	var c = a*b;
+	res.value = c;
+}
+function dividir(){	
+	var a = parseFloat(n1.value);
+	var b = parseFloat(n2.value);
+	if(b==0){
+		alert("divisao por zero");
+		res.value = "";
+		return false;
+	} else {
+		var c = a/b;
+		res.value = c;
+	}	
+}
+
+</script>	
+	
