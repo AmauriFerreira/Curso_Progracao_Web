@@ -1,0 +1,8 @@
+C:\Users\professor\Documents\Visual Studio 2013\Projects\pweb\pw12\bin\pw12.dll.config
+C:\Users\professor\Documents\Visual Studio 2013\Projects\pweb\pw12\bin\pw12.dll
+C:\Users\professor\Documents\Visual Studio 2013\Projects\pweb\pw12\bin\pw12.pdb
+C:\Users\professor\Documents\Visual Studio 2013\Projects\pweb\pw12\bin\MySql.Data.dll
+C:\Users\professor\Documents\Visual Studio 2013\Projects\pweb\pw12\bin\MySql.Data.xml
+C:\Users\professor\Documents\Visual Studio 2013\Projects\pweb\pw12\obj\Debug\pw12.csprojResolveAssemblyReference.cache
+C:\Users\professor\Documents\Visual Studio 2013\Projects\pweb\pw12\obj\Debug\pw12.dll
+C:\Users\professor\Documents\Visual Studio 2013\Projects\pweb\pw12\obj\Debug\pw12.pdb
