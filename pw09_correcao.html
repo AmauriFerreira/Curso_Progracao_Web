@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+	<head> 
+	<script
+	src="https://code.jquery.com/jquery-3.4.0.min.js"
+	integrity="sha256-BJeo0qm959uMBGb65z40ejJYGSgR7REI4+CW1fNKwOg="
+	crossorigin="anonymous"></script>	
+	</head>
+	<body>
+	<font color="red" size="14px">Contato</font>
+	<br/><br/><i>Seja bem vindo, preencha o <b>formulário</b>
+	abaixo para:</i> 	<br/>
+		<ul>
+			<li>duvidas</li>
+			<li>sugestões</li>
+			<li>criticas</li>
+			<li>Orçamentos</li>
+		</ul>
+		Caso queira ver nossos produtos, clique
+		<a href="produtos.pdf">aqui</a>
+		<br/><br/>	
+	<form>
+	nome:<input type="text" id="txtNome" size="50"
+	placeholder="digite seu nome" /><br/>
+	email:<input type="text" id="txtEmail" size="60" placeholder="digite seu email" /><br/>
+	telefone:<input type="text" id="txtTelefone" size="30" /><br/>
+	assunto:<select id="assunto">
+			<option>Duvidas</option>
+			<option>sugestões</option>
+			<option>Criticas</option>
+			<option>orçamentos</option>
+			</select><br/>
+	Deseja receber uma copia deste e-mail:
+	<input type="radio" id="Op1" name="receber" />
+	Sim
+	<input type="radio" id="Op2" name="receber" />
+	Não <br/>
+	mensagem:
+	<textarea id="msg" rows="4" cols="40"></textarea><br/>
+	<input type="button" id="bt1" value="Enviar" />
+	<input type="button" id="bt2" value="copiar" />	
+	</form>
+	<div></div>
+	</body>
+</html>
+<script lang="javascript">
+$("#bt2").click(function(){
+	var x = "<b>Nome:</b>" + $("#txtNome").val() + "<br/>" +	
+			"<b>Email:</b>" + $("#txtEmail").val() + "<br/>" +	
+			"<b>Telefone:</b>" + $("#txtTelefone").val() + "<br/>" +	
+			"<b>Assunto:</b>" + $("#assunto").val() + "<br/>" +	
+			"<b>mensagem:</b>" + $("#msg").val() + "<br/>";
+	if($("#Op1").prop("checked")== true){
+		x = x + "<b>Deseja Receber email</b>: Sim";
+	} else {
+		x = x + "<b>Deseja Receber email</b>: Não";
+	}		 			
+	$("div").html(x);
+});
+</script>
