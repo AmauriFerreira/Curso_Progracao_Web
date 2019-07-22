@@ -15,3 +15,6 @@ Criar um campo personalizado de cep, utilizando expressão regular para o seguin
 
 5-Aula
 Utilizando o arquivo HTML da correção da atividade PW03 crie uma folha de estilo para a formatação da página, utilizando todos os tipos de seletores ensinados em aula.
+
+6_Aula
+Crie uma versão de CSS responsivo com media queries do exercicio PW05.
