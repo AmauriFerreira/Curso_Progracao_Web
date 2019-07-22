@@ -18,3 +18,9 @@ Utilizando o arquivo HTML da correção da atividade PW03 crie uma folha de esti
 
 6-Aula
 Crie uma versão de CSS responsivo com media queries do exercicio PW05.
+
+7-Aula
+
+-Utilizando a correção da atividade PW02 reestruture e aplique as classes do bootstrap
+
+-Utilizando a correção da atividade PW03 reestruture e aplique as classes do bootstrap
