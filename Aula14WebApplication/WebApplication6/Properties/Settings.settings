@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WebApplication6.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WebApplication6_WS_AccelerationUnit" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.webservicex.net/ConvertAcceleration.asmx</Value>
+    </Setting>
+    <Setting Name="WebApplication6_WS2_CurrencyConvertor" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.webservicex.net/currencyconvertor.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
