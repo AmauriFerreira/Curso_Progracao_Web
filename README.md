@@ -43,3 +43,9 @@ Criar um página HTML utilizando as tags
    - utilizando os efeitos de menu do JQUERY e CSS, crie um menu com 3 niveis
 
     - utilizando os efeitos de menu do JQUERY e CSS, crie 3 Abas  que ao clicar em cada uma esconda as o conteúdo das outras
+ 
+11-Aula
+
+Faça um web site utilizando o visual studio que contenha a pagina calculadora.aspx
+Nesta pagina crie dois objetos do tipo textbox para receber os números, e crie quatro botões que representem as operações aritmeticas (soma, subtração, divisão e multiplicação) associe metodos aos evento click de cada botão. O resultado de cada operação exiba em um objeto do tipo label, caso ocorra algum erro durante a execução do algoritmo, exiba uma mensagem de erro no mesmo objeto label.
+ 
