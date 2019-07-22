@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+	<head> 
+		<link rel="stylesheet" href="estilo5.css" />
+	</head>
+	<body>
+	<h1>Contato</h1>
+	<i>Seja bem vindo, preencha o <b>formulário</b>
+	abaixo para:</i> 	<br/>
+		<ul>
+			<li>duvidas</li>
+			<li>sugestões</li>
+			<li>criticas</li>
+			<li>Orçamentos</li>
+		</ul>
+		Caso queira ver nossos produtos, clique
+		<a href="produtos.pdf">aqui</a>
+		<br/><br/>	
+	<form>
+	<label>nome:</label><input type="text" id="txtNome" size="50"
+	placeholder="digite seu nome" /><br/>
+	<label>email:</label><input type="text" id="txtEmail" size="60" placeholder="digite seu email" /><br/>
+	<label>telefone:</label><input type="text" id="txtTelefone" size="30" /><br/>
+	<label>assunto:</label><select id="assunto">
+			<option>Duvidas</option>
+			<option>sugestões</option>
+			<option>Criticas</option>
+			<option>orçamentos</option>
+			</select><br/>
+	<label></label>Deseja receber uma copia deste e-mail:
+	<input type="radio" id="Op1" name="receber" />
+	Sim
+	<input type="radio" id="Op2" name="receber" />
+	Não <br/>
+	<label>mensagem:</label><textarea id="msg" rows="4" cols="40"></textarea><br/>
+	<label></label><input type="button" id="bt1" class="btn" value="Enviar" />
+	</form>
+	</body>
+</html>
