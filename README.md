@@ -31,3 +31,7 @@ Crie uma versão de CSS responsivo com media queries do exercicio PW05.
 Verifique e evite a divisão por zero.
 
 -Utilizando o formulário da atividade (PW03), faça a validação dos campos ao clicar no botão enviar
+
+9-Aula
+
+1-Utilizando o formulário da atividade (PW03), crie um novo botão “copiar” associado ao um evento do jquery, leia o valor de todos os campos do formulário e mostre o conteúdo dentro de um paragrafo.
