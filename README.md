@@ -48,4 +48,9 @@ Criar um página HTML utilizando as tags
 
 Faça um web site utilizando o visual studio que contenha a pagina calculadora.aspx
 Nesta pagina crie dois objetos do tipo textbox para receber os números, e crie quatro botões que representem as operações aritmeticas (soma, subtração, divisão e multiplicação) associe metodos aos evento click de cada botão. O resultado de cada operação exiba em um objeto do tipo label, caso ocorra algum erro durante a execução do algoritmo, exiba uma mensagem de erro no mesmo objeto label.
+
+12-Aula
+
+Crie uma pagina HTML com um formulário com os seguintes campos: nome, e-mail, telefone e senha envie o post deste formulário para a página: converter.aspx, que tem a função de ler estes parâmetros e de converter para variáveis de sessão do mesmo nome.
+Em seguida redirecione a navegação para a página: sessao.aspx que vai ler as variaveis de sessão e atribuir aos seguintes objetos na tela: txtNome, txtEmail, txtTelefone e txtSenha
  
