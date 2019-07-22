@@ -1,0 +1,6 @@
+C:\Users\professor\documents\visual studio 2013\Projects\PWEB_NOITE\pw15_correcao\bin\pw15_correcao.dll.config
+C:\Users\professor\documents\visual studio 2013\Projects\PWEB_NOITE\pw15_correcao\bin\pw15_correcao.dll
+C:\Users\professor\documents\visual studio 2013\Projects\PWEB_NOITE\pw15_correcao\bin\pw15_correcao.pdb
+C:\Users\professor\documents\visual studio 2013\Projects\PWEB_NOITE\pw15_correcao\obj\Debug\pw15_correcao.csprojResolveAssemblyReference.cache
+C:\Users\professor\documents\visual studio 2013\Projects\PWEB_NOITE\pw15_correcao\obj\Debug\pw15_correcao.dll
+C:\Users\professor\documents\visual studio 2013\Projects\PWEB_NOITE\pw15_correcao\obj\Debug\pw15_correcao.pdb
