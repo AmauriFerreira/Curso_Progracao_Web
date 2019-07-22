@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Pw03 - Correção</title>
+	</head>
+	<body>
+	<datalist id="listaCidades">
+		<option>São Paulo</option>
+		<option>São Caetano do sul</option>
+		<option>Santo Andre</option>
+		<option>São Bernado do Campo</option>
+		<option>Diadema</option>
+	</datalist>
+		<form>				
+Email<input type="email" id="txtEmail" required /><br/>
+Data<input type="date" id="txtData" required /><br/>
+Numero<input type="number" id="txtNumero" required min="1" max="20" />
+<br/>
+cidades<input type="text" id="txtCidade" list="listaCidades" /><br/>
+Cep<input type="text" id="txtCep" required 
+pattern="[0-9]{5}-[0-9]{3}" title="digite no padrão 99999-999" />
+<br/>
+	<button>Testar</button>
+		</form>
+	</body>
+</html>	
