@@ -24,3 +24,10 @@ Crie uma versão de CSS responsivo com media queries do exercicio PW05.
 -Utilizando a correção da atividade PW02 reestruture e aplique as classes do bootstrap
 
 -Utilizando a correção da atividade PW03 reestruture e aplique as classes do bootstrap
+
+8-Aula
+
+-Utilizando o exemplo realizado em sala de aula crie as funções javascript para as operações de : multiplicação, divisão, subtração e soma.
+Verifique e evite a divisão por zero.
+
+-Utilizando o formulário da atividade (PW03), faça a validação dos campos ao clicar no botão enviar
