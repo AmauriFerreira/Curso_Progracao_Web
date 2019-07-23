@@ -1,0 +1,26 @@
+create database pescola;
+
+use pescola;
+
+create table professor(
+codigo Integer 
+NOT NULL PRIMARY KEY AUTO_INCREMENT,
+nome varchar(100),
+telefone varchar(20),
+escola varchar(100),
+email varchar(100),
+senha varchar(20)
+);
+
+insert into professor values (1,"Girafales","1155555555","Escola da Vila","gira_fales@gmail.com","florinda10");
+insert into professor values (2,"Pardal","1166666666","Escola das Aves","pardal@patomail.com","pardal");
+insert into professor values (3,"Buginganga","1177777777","Escola da Cidade","bugiganga@gmail.com","bugiganga");
+
+
+create table login(
+codigo Integer 
+NOT NULL PRIMARY KEY AUTO_INCREMENT,
+nome varchar(50),
+email varchar(100),
+senha varchar(20)
+);
