@@ -1,6 +1,0 @@
-c:\users\professor\documents\visual studio 2013\Projects\pweb\pw09\bin\pw09.dll.config
-c:\users\professor\documents\visual studio 2013\Projects\pweb\pw09\bin\pw09.dll
-c:\users\professor\documents\visual studio 2013\Projects\pweb\pw09\bin\pw09.pdb
-c:\users\professor\documents\visual studio 2013\Projects\pweb\pw09\obj\Debug\pw09.csprojResolveAssemblyReference.cache
-c:\users\professor\documents\visual studio 2013\Projects\pweb\pw09\obj\Debug\pw09.dll
-c:\users\professor\documents\visual studio 2013\Projects\pweb\pw09\obj\Debug\pw09.pdb
